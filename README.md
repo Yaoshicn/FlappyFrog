@@ -1,7 +1,7 @@
 FlappyFrog
 ===============
 
-A Flappy Bird Clone made using [python-pygame][1]
+A Flappy Frog Clone made using [python-pygame][1]
 
 How-to
 ------

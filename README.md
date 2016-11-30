@@ -28,6 +28,6 @@ ScreenShot
 [1]: http://www.pygame.org
 
 
-ScreenShot
+License
 ----------
 MIT

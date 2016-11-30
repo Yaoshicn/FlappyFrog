@@ -6,7 +6,7 @@ A Flappy Frog Clone made using [python-pygame][1]
 How-to
 ------
 
-1. Install Python 2.7.X from [here](https://www.python.org/download/releases/)
+1. Install Python 2.7.X (Flappy Frog has supported Python 3!)from [here](https://www.python.org/download/releases/)
 
 2. Install PyGame 1.9.X from [here](http://www.pygame.org/download.shtml)
 

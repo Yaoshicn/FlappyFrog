@@ -26,3 +26,8 @@ ScreenShot
 ![Flappy Frog](screenshot1.png)
 
 [1]: http://www.pygame.org
+
+
+ScreenShot
+----------
+MIT
